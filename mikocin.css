@@ -2,6 +2,7 @@ body {
     margin: 0;
     overflow-x: hidden;
     font-family: 'Roboto', sans-serif;
+    user-select: none;  
 }
 .wrapper {
     background:url('./img/wrapper-bg.png') no-repeat;
